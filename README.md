@@ -5,7 +5,7 @@
 
 ![view final]()
 
-- [Demo Project]()
+- [Demo Project]( https://fatemeabdolmaleki.github.io/choice-web-responsive-tailwind/)
 
 - Developed by fateme abdolmaleki
 
@@ -15,4 +15,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/fatemeabdolmaleki_) and [linkedin](https://www.linkedin.com/in/)
+- How to reach me : with my [instagram](https://www.instagram.com/fatemeabdolmaleki_) and [linkedin](https://www.linkedin.com/in/fateme-abdolmaleki)
