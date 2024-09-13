@@ -1,7 +1,7 @@
 # choice-web-responsive-tailwind
 
 
-![viewfinal]()
+[viewfinal](![13 09 2024_13 38 48_REC](https://github.com/user-attachments/assets/25425d9b-9825-4c9c-9568-95c3d2fa23ab)
 
 ![view final]()
 
